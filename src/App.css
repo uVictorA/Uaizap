@@ -1,0 +1,20 @@
+.App {
+  text-align: left; /* Alinhe o texto à esquerda */
+  font-family: Arial, sans-serif; /* Use uma fonte sans-serif */
+  background-color: #f0f0f0; /* Cor de fundo semelhante ao WhatsApp */
+  height: 100vh; /* Defina a altura para preencher toda a tela */
+  padding: 20px; /* Adicione algum espaçamento interno */
+}
+
+.message-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+h1{
+  text-align: center;
+}
+body{
+  background-color: #00bfa5;
+}
